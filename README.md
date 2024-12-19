@@ -9,8 +9,9 @@
 <p align="center"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
-  <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/d/d2/SolidWorks_Logo.svg" alt="matlab" width="100" height="30"/></a>
-  <a href="https://plm.sw.siemens.com/en-US/simcenter/fluids-thermal-simulation/star-ccm/?srsltid=AfmBOoqzazUXXnJNOfG-xlmCZpo0t2awp8Hln0Wh60lCRQuj34ti5ljJ" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Siemens_AG_logo.svg" alt="matlab" width="100" height="30"/></a>
+  <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/d/d2/SolidWorks_Logo.svg" alt="solidworks" width="100" height="30"/></a>
+  <a href="https://www.3ds.com/products/simulia/abaqus/cae" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/e/e2/Abaqus_icon.png" alt="abaqus" width="30" height="30"/></a>
+  <a href="https://plm.sw.siemens.com/en-US/simcenter/fluids-thermal-simulation/star-ccm/?srsltid=AfmBOoqzazUXXnJNOfG-xlmCZpo0t2awp8Hln0Wh60lCRQuj34ti5ljJ" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Siemens_AG_logo.svg" alt="StarCCM+" width="100" height="30"/></a>
 </p>
 
 <h3 align="left">Let's connect!</h3> 
